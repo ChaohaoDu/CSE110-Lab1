@@ -3,3 +3,5 @@
 Chaohao Du's User Page
 
 Java
+
+`index.md` [link](https://chaohaodu.github.io/CSE110-Lab1/)
