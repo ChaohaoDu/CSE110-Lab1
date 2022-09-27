@@ -10,7 +10,7 @@ I am a senior student, studying at **UCSD**, and major at *Mathmatics-computer s
 
 I took Pro. Powell's `CSE134B` this summer session. Here is the [link](https://chaohaodu-hw5.netlify.app/) to my project of that course.
 
-You could check my skill sets by click [here](###My skills).
+You could check my skill sets by click [here](#my-skills).
 
 To find the `README.md` of this project, click [here](./README.md)
 
@@ -33,7 +33,7 @@ To find the `README.md` of this project, click [here](./README.md)
 
 **Things I plan to learn**:
 
-- [x] go
+- [x] Go
 - [ ] Ruby on Rails
 
  
